@@ -11,6 +11,7 @@ Hi I am Mahtab Hossain Tanim .
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!--START_SECTION:badges-->
+[![Linux Commands & Shell Scripting Essentials V2](https://images.credly.com/size/110x110/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png)](http://www.credly.com/badges/da5c5e11-7841-4a5d-bda3-b6d1ee858f57 "Linux Commands & Shell Scripting Essentials V2")
 [![Git and GitHub Essentials](https://images.credly.com/size/110x110/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)](http://www.credly.com/badges/9498fa04-db79-4646-ac18-093924596c95 "Git and GitHub Essentials")
 [![Developing Applications with SQL, Databases, and Django](https://images.credly.com/size/110x110/images/99ac9d76-89ad-42d9-abad-0b3167c4c566/image.png)](http://www.credly.com/badges/2ea88ee7-b7ac-49c0-be2b-081dce34d0f6 "Developing Applications with SQL, Databases, and Django")
 <!--END_SECTION:badges-->
